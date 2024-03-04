@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">NotesAndPasswordManager</string>
+    <string name="welcome_to_notes_and_password_manager">NotesAndPasswordManager</string>
+    <string name="notes">Notes</string>
+    <string name="passwords">Password</string>
+    <string name="password_generator">Password Generator</string>
+</resources>
